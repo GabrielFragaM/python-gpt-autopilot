@@ -26,7 +26,7 @@ def next_round(your_animal, other_animal):
     
     headers = {
         'Content-type': 'application/json',
-        'Authorization': 'Bearer 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'
+        'Authorization': 'Bearer --KEY--'
     }
 
     body = {
